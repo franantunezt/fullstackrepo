@@ -1,0 +1,15 @@
+{
+  "name": "primerprueba",
+  "version": "1.0.0",
+  "description": "primer proyecto",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Francisco",
+    "A"
+  ],
+  "author": "Francisco A",
+  "license": "ISC"
+}
